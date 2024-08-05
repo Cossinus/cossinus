@@ -16,7 +16,7 @@ As games are my passion, I would like to create one using the latest Unity techn
   
 - **🌟 [TuneIn](https://github.com/NovemoG/TuneIn)**: A self-hosted video sharing solution for home usage or small communities. I aim to create a straightforward way for people to share videos (and maybe other things) between each other with a minimalistic web UI that will help them explore and organize their content.
   
-- **🌟 [DownloadXpress](https://github.com/Cossinus/YouTubeDownloaderGUI)**: Main focus of this project is to simplify usage of [yt-dlp's](https://github.com/yt-dlp/yt-dlp) and [ffmpeg's](https://www.ffmpeg.org/) CLI by providing smooth GUI experience with extensive error handling.
+- **🌟 [YTXpress](https://github.com/Cossinus/YouTubeDownloaderGUI)**: Main focus of this project is to simplify usage of [yt-dlp's](https://github.com/yt-dlp/yt-dlp) and [ffmpeg's](https://www.ffmpeg.org/) CLI by providing smooth GUI experience with extensive error handling.
 
 ## Technologies and Tools I use
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
